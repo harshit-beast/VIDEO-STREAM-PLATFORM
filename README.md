@@ -1,4 +1,4 @@
-# Video Upload, Sensitivity Processing, and Streaming Platform
+ # STREAMSPHERE
 
 A production-ready full-stack application for uploading, processing, and streaming videos with real-time sensitivity analysis, multi-tenant architecture, and role-based access control.
 
